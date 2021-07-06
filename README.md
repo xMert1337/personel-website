@@ -1,6 +1,6 @@
 # web site
 
-**https://personel.lunexdev.ml/ açık kaynak kodları**
+**https://lunexdev.ml/ açık kaynak kodları**
 
 # dikkat
 
